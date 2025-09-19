@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @charset "UTF-8";
 *{
     
@@ -32,4 +33,40 @@ h2{
 
 p {
     text-align: justify;
+=======
+@charset "UTF-8";
+*{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    /*height: 100%;*/
+}
+
+body{
+    background-image: linear-gradient(to right,#6089BF,#9CB6D9);
+}
+
+main {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #8faed7;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1{
+    color: #595959;
+    text-align: center;
+    text-shadow: 1px 1px 2px #4b4b4b;
+
+}
+
+h2{
+    color: #6089BF;
+
+}
+
+p {
+    text-align: justify;
+>>>>>>> origin/Exercícios
 }
