@@ -1,5 +1,5 @@
 <?php 
-    $inome = $_GET["nome"];
-    $isobrenome = $_GET["sobrenome"];
+    $nome = $_GET["nome"];
+    $sobrenome = $_GET["sobrenome"];
 
 ?>
