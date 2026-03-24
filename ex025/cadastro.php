@@ -4,8 +4,8 @@ Aprenda PHP para saber o que fazer com eles.
 <?php 
     $nome = $_GET["nome"];
     $sobrenome = $_GET["sobrenome"];
-    $iusu = $_GET["usu"];
-    $imedia = $_GET["media"];
-    echo ".Olá $nome $sobrenome $iusu, seja bem-vindo(a)!";
+    $usu = $_GET["usu"];
+    $media = $_GET["media"];
+    echo ".Olá $nome $sobrenome $usu, seja bem-vindo(a)!";
 
 ?>
