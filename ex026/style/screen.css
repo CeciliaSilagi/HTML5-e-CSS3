@@ -13,5 +13,13 @@ html {
 }
 
 header {
-    background-color: lightgrey;
+    background-color: rgb(158, 158, 158);
+}
+
+header > h1 {
+    text-align: center;
+}
+
+menu ul {
+    list-style-type: none;
 }
