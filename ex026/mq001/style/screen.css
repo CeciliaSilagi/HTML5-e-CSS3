@@ -34,4 +34,6 @@ menu li {
 
 article {
     width: 400px;
+    display: block;
+    margin: auto;
 }
