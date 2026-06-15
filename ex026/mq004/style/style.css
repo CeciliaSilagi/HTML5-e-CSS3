@@ -16,6 +16,6 @@ body, html {
 }
 
 body {
-    background-color: black url('../images/back-phone.jpg') no-repeat;
+    background: black url('../images/back-phone.jpg') no-repeat;
 
 }
