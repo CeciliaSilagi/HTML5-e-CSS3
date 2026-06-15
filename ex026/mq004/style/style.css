@@ -17,5 +17,8 @@ body, html {
 
 body {
     background: black url('../images/back-phone.jpg') no-repeat;
+}
 
+main {
+    background-color: rgba(255, 255, 255, 0.842);
 }
