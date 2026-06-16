@@ -20,7 +20,7 @@ Grandes telas: acima de 1200px
     }
 
     img#telefone {display: block;}
-    img#tablet { display: none;}
+    img#tablet { display: block;}
     img#impressora { display: none;}
     img#computador { display: none;}
     img#tv { display: none;}
