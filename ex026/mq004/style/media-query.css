@@ -19,7 +19,7 @@ Grandes telas: acima de 1200px
         background-image: url(../images/back-tablet.jpg);
     }
 
-    img#telefone {display: block;}
+    img#telefone {display: none;}
     img#tablet { display: block;}
     img#impressora { display: none;}
     img#computador { display: none;}
@@ -31,10 +31,10 @@ Grandes telas: acima de 1200px
          background-image: url(../images/back-desktop.jpg);
        }
 
-    img#telefone {display: block;}
-    img#tablet { display: block;}
+    img#telefone {display: none;}
+    img#tablet { display: none;}
     img#impressora { display: none;}
-    img#computador { display: none;}
+    img#computador { display: block;}
     img#tv { display: none;}
 }
 
@@ -43,8 +43,8 @@ Grandes telas: acima de 1200px
          background-image: url(../images/back-large-screens.jpg);
        }
 
-    img#telefone {display: block;}
-    img#tablet { display: block;}
+    img#telefone {display: none;}
+    img#tablet { display: none;}
     img#impressora { display: none;}
     img#computador { display: none;}
     img#tv { display: block;}
