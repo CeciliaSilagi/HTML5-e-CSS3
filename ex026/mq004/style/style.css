@@ -26,3 +26,23 @@ main {
     border-radius: 10px;
     padding: 10px
 }
+
+img#telefone {
+    display: none;
+}
+
+img#tablet {
+    display: none;
+}
+
+img#impressora {
+    display: none;
+}
+
+img#computador {
+    display: none;
+}
+
+img#tv {
+    display: none;
+}
