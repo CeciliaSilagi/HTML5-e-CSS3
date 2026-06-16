@@ -19,6 +19,11 @@ Grandes telas: acima de 1200px
         background-image: url(../images/back-tablet.jpg);
     }
 
+    img#telefone {display: block;}
+    img#tablet { display: none;}
+    img#impressora { display: none;}
+    img#computador { display: none;}
+    img#tv { display: none;}
 }
 
 @media screen and (min-width: 922px) and (max-width: 1200px) { /* Desktop */
