@@ -27,22 +27,12 @@ main {
     padding: 10px
 }
 
-img#telefone {
-    display: none;
-}
+img#telefone {display: none;}
 
-img#tablet {
-    display: none;
-}
+img#tablet { display: none;}
 
-img#impressora {
-    display: none;
-}
+img#impressora { display: none;}
 
-img#computador {
-    display: none;
-}
+img#computador { display: none;}
 
-img#tv {
-    display: none;
-}
+img#tv { display: none;}
