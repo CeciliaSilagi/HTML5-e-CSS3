@@ -31,6 +31,10 @@ h1 {
     text-align: center;
 }
 
+img {
+    display: block;
+}
+
 img#telefone {display: none;}
 
 img#tablet { display: none;}
