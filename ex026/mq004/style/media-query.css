@@ -29,6 +29,10 @@ Grandes telas: acima de 1200px
     color: black;
   }
 
+  main ::after {
+    content: 'Essa impressão foi gerada através do site www.cur' ;
+  }
+
     img#phone {display: none;}
     img#tablet {display: none;}
     img#print {display: block;}
