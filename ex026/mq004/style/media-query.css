@@ -10,7 +10,17 @@ Desktop: 922px até 1200px
 Grandes telas: acima de 1200px
 */
 
-@media print {
+@media print { /* Impressão */
+   
+  * {
+    font-family: Courier New, Courier, monospace;
+  }
+
+  body {
+    background-image: url(../images/back-impressora.jpg);
+    
+  }
+    
 
 }
 
