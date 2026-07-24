@@ -38,3 +38,8 @@ menu > ul > li > a {
     border-top: 2px solid gray
 }
 
+main {
+    width: 90vw;
+    background-color: white;
+}
+
