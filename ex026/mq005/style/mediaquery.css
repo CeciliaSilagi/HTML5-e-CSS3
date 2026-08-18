@@ -22,3 +22,17 @@ Grandes telas: acima de 1200px
         display: inline-block;
     }
 }
+
+@media screen and (max-width: 767px) {
+    i#burger {
+        display: block;
+    }
+
+    menu {
+        display: none;
+    }
+
+    menu > ul > li {
+        display: block;
+    }
+}
